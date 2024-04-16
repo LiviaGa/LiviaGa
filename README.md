@@ -28,5 +28,5 @@
  <a href = "mailto:liviagallafrio1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/LiviaGallafrio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Sophia09-pixel/Sophia09-pixel/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/LiviaGa/LiviaGa/blob/output/github-contribution-grid-snake.svg)
 </div>
